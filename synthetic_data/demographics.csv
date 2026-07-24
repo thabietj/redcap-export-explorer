@@ -1,0 +1,6 @@
+record_id,first_name,email_address,date_of_birth,sex,race___1,race___2,race___3,very_long_demographic_variable_name_exceeding_stata_limit,comments,demographics_complete
+S001,Amina Example,amina@example.invalid,1980-05-12,1,1,0,0,alpha,"Fictional participant; no real data",2
+S002,Boitumelo Example,boitumelo@example.invalid,13/06/1975,2,0,1,0,beta,,2
+S003,Chen Example,chen@example.invalid,07/08/1990,1,0,0,1,gamma,"Synthetic free text",1
+S004,Divya Example,divya@example.invalid,1988-12-03,2,1,0,0,delta,NA,2
+S005,Elias Example,elias@example.invalid,,1,0,1,0,epsilon,"Not applicable",0
