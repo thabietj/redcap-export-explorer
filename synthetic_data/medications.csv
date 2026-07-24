@@ -1,0 +1,6 @@
+record_id,redcap_repeat_instrument,redcap_repeat_instance,medication_code,dose_mg,start_date,medication_status,medications_complete
+S001,medications,1,M001,10,2024-01-04,1,2
+S001,medications,2,M002,5,2024-02-12,1,2
+S002,medications,1,M003,20,04/03/2024,2,2
+S003,medications,1,M001,10,2024-03-16,1,1
+S006,medications,1,M004,unknown,2024-04-01,1,0
