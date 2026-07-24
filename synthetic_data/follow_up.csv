@@ -1,0 +1,6 @@
+record_id,redcap_event_name,visit_date,weight_kg,blood_pressure_systolic,follow_up_complete
+S001,month_1_arm_1,2024-02-01,70.2,118,2
+S001,month_3_arm_1,2024-04-01,69.8,116,2
+S002,month_1_arm_1,01/03/2024,82.1,135,2
+S003,month_1_arm_1,2024-04-15,65.0,122,1
+S005,month_1_arm_1,2024-05-20,,unknown,0
