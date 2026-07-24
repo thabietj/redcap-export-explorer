@@ -1,0 +1,12 @@
+Variable / Field Name,Form Name,Section Header,Field Type,Field Label,Choices Calculations OR Slider Labels,Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic,Required Field?,Custom Alignment,Question Number,Matrix Group Name,Matrix Ranking?,Field Annotation
+record_id,demographics,,text,Study record identifier,,,,,,,y,,y,,,,
+first_name,demographics,,text,Fictional given name,,,,,,,y,,,,,,
+email_address,demographics,,text,Fictional email address,,,email,,,,y,,,,,,
+date_of_birth,demographics,,text,Date of birth,,,date_ymd,,,,y,,,,,,
+sex,demographics,,radio,Sex,"1, Male | 2, Female",,,,,,,,,,,,
+race,demographics,,checkbox,Race,"1, Group A | 2, Group B | 3, Group C",,,,,,,,,,,,
+diagnosis_code,diagnoses,,dropdown,Diagnosis code,"D001, Condition A | D002, Condition B | D003, Condition C",,,,,,,,,,,,
+diagnosis_date,diagnoses,,text,Diagnosis date,,,date_ymd,,,,,,,,,,
+medication_code,medications,,dropdown,Medication,"M001, Medicine A | M002, Medicine B | M003, Medicine C | M004, Medicine D",,,,,,,,,,,,
+specimen_date,laboratory_results,,text,Specimen date,,,date_ymd,,,,,,,,,,
+test_name,laboratory_results,,dropdown,Test name,"creatinine, Creatinine | potassium, Potassium",,,,,,,,,,,,
