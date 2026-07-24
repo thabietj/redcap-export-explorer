@@ -1,0 +1,6 @@
+record_id,specimen_date,test_name,result_value,result_unit,abnormal_flag,laboratory_complete
+S001,2024-01-05,creatinine,75,umol/L,0,2
+S001,2024-02-15,creatinine,82,umol/L,0,2
+S001,2024-02-15,potassium,4.1,mmol/L,0,2
+S002,04/05/2024,creatinine,110,umol/L,1,2
+S003,2024-03-20,potassium,not done,mmol/L,,1
