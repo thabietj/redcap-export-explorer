@@ -21,6 +21,10 @@ jobs:
         run: .\packaging\build_windows.ps1
       - uses: actions/upload-artifact@v4
         with:
+          name: REDCap-Export-Explorer-Windows-Portable-x64
+          path: dist/REDCapExportExplorer.exe
+      - uses: actions/upload-artifact@v4
+        with:
           name: REDCap-Export-Explorer-Windows-x64
           path: dist/installer/*.exe
 
